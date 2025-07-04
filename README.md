@@ -84,6 +84,6 @@ Select “Run as Administrator”
 ###🐧 Linux/macOS (.sh)
 
 
-<code>```chmod +x generate.sh</code>
+<pre>```chmod +x generate.sh```</pre>
 
-<code>```./generate.sh</code>
+<pre>```./generate.sh```</pre>
